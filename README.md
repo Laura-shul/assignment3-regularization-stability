@@ -15,6 +15,7 @@ This project empirically studies the relationship between regularization strengt
 - experiment2.py — effect of dataset size on stability
 - experiment3.py — L1 vs L2 regularization comparison
 - main.py — runs all experiments
+- results.py — reproduces numerical results from the report
 - plots/ — generated figures
 
 ## Datasets
